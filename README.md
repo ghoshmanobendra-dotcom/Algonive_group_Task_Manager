@@ -88,4 +88,4 @@ Simply open index.html in your preferred browser.
 Manobendra Ghosh
 📧 ghoshmanobendra@gmail.com
 
-🌐 GitHub Profile -->https://github.com/ghoshmanobendra-dotcom/"# Algonive_group_Task_Manager" 
+🌐 GitHub Profile -->https://github.com/ghoshmanobendra-dotcom/
